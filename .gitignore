@@ -12,7 +12,7 @@ currency.csv
 df_key_rate.csv
 petroleum.csv
 .venv/
-
+.idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
